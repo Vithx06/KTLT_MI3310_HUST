@@ -49,23 +49,32 @@
 ## Cấu trúc thư mục dự án
 
 ```
-QuanLyDiemDanh/
-├── QuanLyDiemDanh.cbp     # File dự án Code::Blocks
-├── main.cpp               # Điểm khởi chạy, menu chính
+PJ_DiemDanh/
+├── QuanLyDiemDanh.cbp      # File cấu hình dự án của Code::Blocks
 │
-├── structs.h               # Định nghĩa các struct dùng chung
+├── include/                # Thư mục chứa toàn bộ file định nghĩa (.h)
+│   ├── structs.h           # Định nghĩa các cấu trúc dữ liệu dùng chung
+│   ├── chucNang.h          
+│   ├── fileIO.h            
+│   ├── nhatKy.h            
+│   ├── MaxHeap.h           
+│   ├── quanLy.h            
+│   ├── diemDanh.h          
+│   ├── timKiem.h           
+│   └── thongKe.h           
 │
-├── chucNang.h / .cpp       # Hàm tiện ích dùng chung (nhập liệu, xử lý chuỗi, parse CSV...)
-├── fileIO.h / .cpp         # Đọc/ghi file CSV (TKB, lớp học)
-├── nhatKy.h / .cpp         # Ghi log hệ thống (macro GHI_LOG)
-├── MaxHeap.h / .cpp        # Cấu trúc dữ liệu Max Heap (heapify, build, extractMax)
+├── src/                    # Thư mục chứa toàn bộ file mã nguồn thực thi (.cpp)
+│   ├── main.cpp            # Luồng chính và Menu điều khiển của hệ thống
+│   ├── chucNang.cpp
+│   ├── fileIO.cpp
+│   ├── nhatKy.cpp
+│   ├── MaxHeap.cpp         # Cấu trúc dữ liệu Max Heap (Thuật toán cốt lõi)
+│   ├── quanLy.cpp          # Module Quản lý lớp học
+│   ├── diemDanh.cpp        # Module Điểm danh
+│   ├── timKiem.cpp         # Module Tìm kiếm
+│   └── thongKe.cpp         # Module Thống kê
 │
-├── quanLy.h / .cpp         # Module Quản lý lớp học
-├── diemDanh.h / .cpp       # Module Điểm danh
-├── timKiem.h / .cpp        # Module Tìm kiếm
-├── thongKe.h / .cpp        # Module Thống kê
-│
-└── data/                   # Thư mục dữ liệu (tạo thủ công trước khi chạy)
+└── data/                   # Thư mục lưu trữ cơ sở dữ liệu (.csv) và log (.txt)
     ├── TKB/
     │   └── ThoiKhoaBieu.csv
     ├── LopHoc/
