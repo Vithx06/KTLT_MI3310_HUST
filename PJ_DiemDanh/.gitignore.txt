@@ -1,0 +1,9 @@
+# Bỏ qua file cấu hình tạm của Code::Blocks
+*.depend
+*.layout
+
+# Bỏ qua file biên dịch trung gian và file chạy
+*.o
+*.exe
+bin/
+obj/
