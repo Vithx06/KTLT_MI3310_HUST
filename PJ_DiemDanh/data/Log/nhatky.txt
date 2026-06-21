@@ -1,0 +1,2 @@
+[2026-06-21 10:20:51] [INFO ] [D:\Codeeee\PJ_DiemDanh\src\main.cpp:15 - main()] -> Ung dung bat dau khoi chay.
+[2026-06-21 10:20:51] [INFO ] [D:\Codeeee\PJ_DiemDanh\src\fileIO.cpp:44 - docFileTKB()] -> Da tai file TKB thanh cong - So lop: 23
