@@ -65,10 +65,10 @@ PJ_DiemDanh/
 │
 ├── src/                    # Thư mục chứa toàn bộ file mã nguồn thực thi (.cpp)
 │   ├── main.cpp            # Luồng chính và Menu điều khiển của hệ thống
-│   ├── chucNang.cpp
-│   ├── fileIO.cpp
-│   ├── nhatKy.cpp
-│   ├── MaxHeap.cpp         # Cấu trúc dữ liệu Max Heap (Thuật toán cốt lõi)
+│   ├── chucNang.cpp        # Chứa các hàm tiện ích
+│   ├── fileIO.cpp          # Quản lý vào ra dữ liệu
+│   ├── nhatKy.cpp          # Ghi flie Log   
+│   ├── MaxHeap.cpp         # Cấu trúc dữ liệu Max Heap 
 │   ├── quanLy.cpp          # Module Quản lý lớp học
 │   ├── diemDanh.cpp        # Module Điểm danh
 │   ├── timKiem.cpp         # Module Tìm kiếm
