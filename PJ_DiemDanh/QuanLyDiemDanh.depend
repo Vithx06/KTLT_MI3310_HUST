@@ -1,0 +1,383 @@
+# depslib dependency file v1.0
+1781599727 source:d:\downloads\ktlt\new folder\vu\quanlydiemdanh\main.cpp
+	<iostream>
+	"structs.h"
+	"fileIO.h"
+	"quanLy.h"
+	"diemDanh.h"
+	"timKiem.h"
+	"thongKe.h"
+
+1781605556 source:d:\downloads\ktlt\new folder\vu\quanlydiemdanh\fileio.cpp
+	"fileIO.h"
+	<fstream>
+	<iostream>
+
+1781586353 d:\downloads\ktlt\new folder\vu\quanlydiemdanh\fileio.h
+	"structs.h"
+	<string>
+
+1781586231 d:\downloads\ktlt\new folder\vu\quanlydiemdanh\structs.h
+	<string>
+
+1781605557 source:d:\downloads\ktlt\new folder\vu\quanlydiemdanh\quanly.cpp
+	"quanLy.h"
+	"fileIO.h"
+	<iostream>
+
+1781605557 d:\downloads\ktlt\new folder\vu\quanlydiemdanh\quanly.h
+	"structs.h"
+
+1781603721 source:d:\downloads\ktlt\new folder\vu\quanlydiemdanh\diemdanh.cpp
+	"diemDanh.h"
+	"fileIO.h"
+	<iostream>
+	<fstream>
+
+1781591485 d:\downloads\ktlt\new folder\vu\quanlydiemdanh\diemdanh.h
+	"structs.h"
+
+1781604338 source:d:\downloads\ktlt\new folder\vu\quanlydiemdanh\timkiem.cpp
+	"timKiem.h"
+	<iostream>
+	<fstream>
+
+1781604338 d:\downloads\ktlt\new folder\vu\quanlydiemdanh\timkiem.h
+	"structs.h"
+
+1781599727 d:\downloads\ktlt\new folder\vu\quanlydiemdanh\thongke.h
+	"structs.h"
+
+1781604934 source:d:\downloads\ktlt\new folder\vu\quanlydiemdanh\thongke.cpp
+	"thongKe.h"
+	"fileIO.h"
+	<iostream>
+	<fstream>
+
+1781611239 source:d:\vu\ktlt\diemdanh.cpp
+	"diemDanh.h"
+	"fileIO.h"
+	<iostream>
+	<fstream>
+
+1781611239 d:\vu\ktlt\diemdanh.h
+	"structs.h"
+
+1781611239 d:\vu\ktlt\structs.h
+	<string>
+
+1781611239 d:\vu\ktlt\fileio.h
+	"structs.h"
+	<string>
+
+1781611239 source:d:\vu\ktlt\fileio.cpp
+	"fileIO.h"
+	<fstream>
+	<iostream>
+
+1781611239 source:d:\vu\ktlt\main.cpp
+	<iostream>
+	"structs.h"
+	"fileIO.h"
+	"quanLy.h"
+	"diemDanh.h"
+	"timKiem.h"
+	"thongKe.h"
+
+1781612103 d:\vu\ktlt\quanly.h
+	"structs.h"
+
+1781611239 d:\vu\ktlt\timkiem.h
+	"structs.h"
+
+1781611239 d:\vu\ktlt\thongke.h
+	"structs.h"
+
+1781611239 source:d:\vu\ktlt\thongke.cpp
+	"thongKe.h"
+	"fileIO.h"
+	<iostream>
+	<fstream>
+
+1781611239 source:d:\vu\ktlt\timkiem.cpp
+	"timKiem.h"
+	<iostream>
+	<fstream>
+
+1781612103 source:d:\vu\ktlt\quanly.cpp
+	"quanLy.h"
+	"fileIO.h"
+	<iostream>
+
+1781948412 source:d:\codeeee\pj_diemdanh_v4\diemdanh.cpp
+	"diemDanh.h"
+	"fileIO.h"
+	"chucNang.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1781752155 d:\codeeee\pj_diemdanh_v4\diemdanh.h
+	"structs.h"
+
+1781887694 d:\codeeee\pj_diemdanh_v4\structs.h
+	<string>
+
+1781880520 d:\codeeee\pj_diemdanh_v4\fileio.h
+	"structs.h"
+	<string>
+
+1781880631 source:d:\codeeee\pj_diemdanh_v4\fileio.cpp
+	"fileIO.h"
+	"chucNang.h"
+	<fstream>
+	<iostream>
+
+1781841764 source:d:\codeeee\pj_diemdanh_v4\main.cpp
+	<iostream>
+	"chucNang.h"
+	"structs.h"
+	"fileIO.h"
+	"quanLy.h"
+	"diemDanh.h"
+	"timKiem.h"
+	"thongKe.h"
+
+1781880460 d:\codeeee\pj_diemdanh_v4\quanly.h
+	"structs.h"
+
+1781880483 d:\codeeee\pj_diemdanh_v4\timkiem.h
+	"structs.h"
+
+1781880472 d:\codeeee\pj_diemdanh_v4\thongke.h
+	"structs.h"
+
+1781880672 source:d:\codeeee\pj_diemdanh_v4\quanly.cpp
+	"quanLy.h"
+	"fileIO.h"
+	"chucNang.h"
+	<iostream>
+	<iomanip>
+
+1781922686 source:d:\codeeee\pj_diemdanh_v4\thongke.cpp
+	"thongKe.h"
+	"fileIO.h"
+	"chucNang.h"
+	<iostream>
+	<iomanip>
+
+1781923106 source:d:\codeeee\pj_diemdanh_v4\timkiem.cpp
+	"timKiem.h"
+	"fileIO.h"
+	"chucNang.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1781887847 source:d:\codeeee\pj_diemdanh_v4\chucnang.cpp
+	"chucNang.h"
+	<cstdlib>
+	<iostream>
+
+1781886349 d:\codeeee\pj_diemdanh_v4\chucnang.h
+	<string>
+	"structs.h"
+
+1782005454 source:d:\codeeee\pj_diemdanh\chucnang.cpp
+	"chucNang.h"
+	<cstdlib>
+	<iostream>
+	<limits>
+
+1782008420 d:\codeeee\pj_diemdanh\chucnang.h
+	<string>
+	"structs.h"
+
+1782004911 d:\codeeee\pj_diemdanh\structs.h
+	<string>
+
+1782003688 source:d:\codeeee\pj_diemdanh\diemdanh.cpp
+	"diemDanh.h"
+	"fileIO.h"
+	"chucNang.h"
+	"nhatKy.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1782004512 d:\codeeee\pj_diemdanh\diemdanh.h
+	"structs.h"
+
+1782004492 d:\codeeee\pj_diemdanh\fileio.h
+	"structs.h"
+	<string>
+
+1782003688 source:d:\codeeee\pj_diemdanh\fileio.cpp
+	"fileIO.h"
+	"chucNang.h"
+	"nhatKy.h"
+	<fstream>
+	<iostream>
+
+1782003688 source:d:\codeeee\pj_diemdanh\main.cpp
+	<iostream>
+	"chucNang.h"
+	"structs.h"
+	"fileIO.h"
+	"quanLy.h"
+	"diemDanh.h"
+	"timKiem.h"
+	"thongKe.h"
+	"nhatKy.h"
+
+1782003688 d:\codeeee\pj_diemdanh\quanly.h
+	"structs.h"
+
+1782004441 d:\codeeee\pj_diemdanh\timkiem.h
+	"structs.h"
+
+1782004453 d:\codeeee\pj_diemdanh\thongke.h
+	"structs.h"
+
+1782003688 source:d:\codeeee\pj_diemdanh\quanly.cpp
+	"quanLy.h"
+	"fileIO.h"
+	"chucNang.h"
+	"nhatKy.h"
+	<iostream>
+	<iomanip>
+
+1782005241 source:d:\codeeee\pj_diemdanh\thongke.cpp
+	"thongKe.h"
+	"fileIO.h"
+	"chucNang.h"
+	"nhatKy.h"
+	"maxHeap.h"
+	<iostream>
+	<iomanip>
+
+1782005325 source:d:\codeeee\pj_diemdanh\timkiem.cpp
+	"timKiem.h"
+	"fileIO.h"
+	"chucNang.h"
+	"nhatKy.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1782008471 d:\codeeee\pj_diemdanh\nhatky.h
+	<string>
+
+1782005206 source:d:\codeeee\pj_diemdanh\nhatky.cpp
+	"nhatKy.h"
+	<fstream>
+	<iostream>
+	<ctime>
+	<cstdio>
+
+1782004722 d:\codeeee\pj_diemdanh\maxheap.h
+	"structs.h"
+
+1782004931 source:d:\codeeee\pj_diemdanh\maxheap.cpp
+	"maxHeap.h"
+	<iostream>
+
+1782005454 source:d:\codeeee\pj_diemdanh\src\chucnang.cpp
+	"chucNang.h"
+	<cstdlib>
+	<iostream>
+	<limits>
+
+1782008420 d:\codeeee\pj_diemdanh\include\chucnang.h
+	<string>
+	"structs.h"
+
+1782004911 d:\codeeee\pj_diemdanh\include\structs.h
+	<string>
+
+1782008176 source:d:\codeeee\pj_diemdanh\src\diemdanh.cpp
+	"diemDanh.h"
+	"fileIO.h"
+	"chucNang.h"
+	"nhatKy.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1782004512 d:\codeeee\pj_diemdanh\include\diemdanh.h
+	"structs.h"
+
+1782004492 d:\codeeee\pj_diemdanh\include\fileio.h
+	"structs.h"
+	<string>
+
+1782008471 d:\codeeee\pj_diemdanh\include\nhatky.h
+	<string>
+
+1782003688 source:d:\codeeee\pj_diemdanh\src\fileio.cpp
+	"fileIO.h"
+	"chucNang.h"
+	"nhatKy.h"
+	<fstream>
+	<iostream>
+
+1782003688 source:d:\codeeee\pj_diemdanh\src\main.cpp
+	<iostream>
+	"chucNang.h"
+	"structs.h"
+	"fileIO.h"
+	"quanLy.h"
+	"diemDanh.h"
+	"timKiem.h"
+	"thongKe.h"
+	"nhatKy.h"
+
+1782003688 d:\codeeee\pj_diemdanh\include\quanly.h
+	"structs.h"
+
+1782004441 d:\codeeee\pj_diemdanh\include\timkiem.h
+	"structs.h"
+
+1782004453 d:\codeeee\pj_diemdanh\include\thongke.h
+	"structs.h"
+
+1782008216 source:d:\codeeee\pj_diemdanh\src\maxheap.cpp
+	"maxHeap.h"
+	<iostream>
+
+1782008433 d:\codeeee\pj_diemdanh\include\maxheap.h
+	"structs.h"
+
+1782005206 source:d:\codeeee\pj_diemdanh\src\nhatky.cpp
+	"nhatKy.h"
+	<fstream>
+	<iostream>
+	<ctime>
+	<cstdio>
+
+1782003688 source:d:\codeeee\pj_diemdanh\src\quanly.cpp
+	"quanLy.h"
+	"fileIO.h"
+	"chucNang.h"
+	"nhatKy.h"
+	<iostream>
+	<iomanip>
+
+1782008367 source:d:\codeeee\pj_diemdanh\src\thongke.cpp
+	"thongKe.h"
+	"fileIO.h"
+	"chucNang.h"
+	"nhatKy.h"
+	"maxHeap.h"
+	<iostream>
+	<iomanip>
+
+1782008402 source:d:\codeeee\pj_diemdanh\src\timkiem.cpp
+	"timKiem.h"
+	"fileIO.h"
+	"chucNang.h"
+	"nhatKy.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
