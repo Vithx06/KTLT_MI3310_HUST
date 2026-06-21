@@ -1,6 +1,6 @@
 # HỆ THỐNG QUẢN LÝ ĐIỂM DANH
 
-**Dự án cuối kỳ Kỹ thuật lập trình - MI3310**  
+**Dự án cuối kỳ môn: Kỹ thuật lập trình - MI3310**  
 **Nhóm: 22**  
 **Mã lớp học: 169312**  
 **Học kỳ: 20252**
@@ -18,9 +18,6 @@
 - [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
 - [Hướng dẫn build & chạy](#hướng-dẫn-build--chạy)
 - [Ghi nhật ký hệ thống (Log)](#ghi-nhật-ký-hệ-thống-log)
-- [Hạn chế đã biết](#hạn-chế-đã-biết)
-- [Tác giả](#tác-giả)
-
 ---
 
 ## Tính năng
@@ -193,17 +190,3 @@ Macro tự động đính kèm tên file, số dòng và tên hàm gọi log, gi
 
 ---
 
-## Hạn chế đã biết
-
-- `system("cls")` chỉ chạy đúng trên Windows.
-- Dùng mảng tĩnh kích thước cố định (`MAX_LOP`, `MAX_SV`) nên giới hạn quy mô dữ liệu.
-- Chưa kiểm tra MSSV trùng lặp khi thêm sinh viên mới.
-- Chương trình giả định ngầm dữ liệu đã sắp xếp theo MSSV để tìm kiếm nhị phân hoạt động đúng, nhưng chưa có bước kiểm tra/sắp xếp lại tự động.
-- Số buổi điểm danh hiện tại của lớp được suy ra từ độ dài chuỗi `diemDanh` của sinh viên **đầu tiên** trong danh sách — có thể sai lệch nếu dữ liệu các sinh viên không đồng bộ độ dài.
-- Hàm `chuanHoaNgay()` chỉ thay `/` bằng `-`, chưa kiểm tra tính hợp lệ của ngày tháng nhập vào.
-
----
-
-## Tác giả
-
-*(Điền tên, MSSV, lớp học phần Kỹ thuật lập trình tại đây)*
