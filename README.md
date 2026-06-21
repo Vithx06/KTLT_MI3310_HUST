@@ -1,10 +1,11 @@
 # HỆ THỐNG QUẢN LÝ ĐIỂM DANH
 
-Ứng dụng console viết bằng **C++** hỗ trợ quản lý thời khóa biểu, điểm danh sinh viên theo lớp, tìm kiếm và thống kê tình hình chuyên cần. Dữ liệu được lưu trữ dưới dạng file **CSV**, không sử dụng cơ sở dữ liệu ngoài.
+**Dự án cuối kỳ Kỹ thuật lập trình - MI3310**  
+**Nhóm: 22**  
+**Mã lớp học: 169312**  
+**Học kỳ: 20252**
 
-> Đồ án môn **Kỹ thuật lập trình** — minh họa việc áp dụng cấu trúc dữ liệu (struct, mảng, heap) và giải thuật (tìm kiếm tuyến tính, tìm kiếm nhị phân, Max Heap) vào một bài toán quản lý thực tế.
-
----
+Ứng dụng console viết bằng **C++** hỗ trợ quản lý thời khóa biểu, điểm danh sinh viên theo lớp, tìm kiếm và thống kê tình hình chuyên cần.
 
 ## Mục lục
 
