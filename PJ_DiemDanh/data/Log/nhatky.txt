@@ -1,0 +1,4 @@
+[2026-06-22 11:28:54] [INFO ] [D:\Codeeee\PJ_DiemDanh\src\main.cpp:15 - main()] -> Ung dung bat dau khoi chay.
+[2026-06-22 11:28:54] [INFO ] [D:\Codeeee\PJ_DiemDanh\src\fileIO.cpp:44 - docFileTKB()] -> Da tai file TKB thanh cong - So lop: 23
+[2026-06-22 11:29:10] [INFO ] [D:\Codeeee\PJ_DiemDanh\src\diemDanh.cpp:104 - ghiNhanDiemDanh()] -> Ghi nhan diem danh thanh cong - Lop: 169300 | Ngay: 22-06-2026 | Buoi so: 1 | Si so: 10
+[2026-06-22 11:29:12] [INFO ] [D:\Codeeee\PJ_DiemDanh\src\main.cpp:68 - main()] -> Ung dung ket thuc an toan.
